@@ -4,10 +4,10 @@ The data is broken into two files identity and transaction, which are joined by 
 
 This folder has original training and testing datasets. 
 
-*Transaction Table 
+##Transaction Table 
 train:590,540 rows, 394 cols
 test:507k rows, 394 cols
 
-*Identity Table 
+##Identity Table 
 train: 144,233 rows, 41 cols
 test:142k rows, 41 cols
