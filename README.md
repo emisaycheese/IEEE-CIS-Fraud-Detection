@@ -104,5 +104,5 @@ Write separate functions in py file as `utils` and use notebook to call the nece
 * Model Segmentation module V 2
 * Parameter optimizations: 3 module E 1
 * CV and times series E 1
-* Data Visual T&E 1
+* EDA and Data Visualization T&E 1
 * Show the fancy techs (gradually) T 4
