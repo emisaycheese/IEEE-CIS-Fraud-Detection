@@ -2,7 +2,7 @@ In this competition you are predicting the probability that an online transactio
 
 The data is broken into two files identity and transaction, which are joined by TransactionID. Not all transactions have corresponding identity information.
 
-This folder has pickle files for training and testing datasets. 
+Original files for training and testing datasets are larger than 1GB. Can't upload. 
 
 ## Transaction Table 
 * train:590,540 rows, 394 cols
