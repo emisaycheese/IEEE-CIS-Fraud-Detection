@@ -1,7 +1,7 @@
 # IEEE-CIS-Fraud-Detection
 This is a private repo for winning the Kaggle Fraud Transaction Detection competition at 218 out of 6381 teams (4%)
 
-![alt text](https://github.com/emisaycheese/IEEE-CIS-Fraud-Detection/tree/master/GIF/head.png)
+![alt text](https://github.com/emisaycheese/IEEE-CIS-Fraud-Detection/blob/master/GIF/head.png)
 
 
 
