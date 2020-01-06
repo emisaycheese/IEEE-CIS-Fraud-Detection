@@ -101,7 +101,7 @@ In addition, after an in-depth research into the computational mechanisms of ROC
 
 **Techonology** & **Experiences**
 
-* We utilize the cutting-edge machine learning modeling framework and tracking system to greatly increase our collaborating efficiency. Featuretools and H2O that let us to focus on the most important features. In addition, we also used `mlflow` to track our ML experiments scientifically and **control** the submissions so that we do not repeat the experiments and avoid overfiting. 
+* We utilize the cutting-edge machine learning modeling framework and tracking system to greatly increase our collaborating efficiency. Featuretools that let us to focus on the most important features. In addition, we also used `mlflow` to track our ML experiments scientifically and **control** the submissions so that we do not repeat the experiments and avoid overfiting. 
 * We are a diversified team of data scientist veterans from consulting, banking and hedgefund industry.
 
 
